@@ -13,7 +13,7 @@ section { display: flex; }
 .flex { display: flex;}
 .flex-column { flex-direction: column;}
 .flex-one { flex: 1;}
-.aling-center { align-items: center;}
+.align-center { align-items: center;}
 .center { justify-content: center;}
 .space-between { justify-content: space-between;}
 .btn {
