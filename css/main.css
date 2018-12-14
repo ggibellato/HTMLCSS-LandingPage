@@ -99,7 +99,7 @@ section { display: flex; }
   line-height: 0.9;
 }
 .hero p { 
-  letter-spacing: 20px;
+  letter-spacing: 2px;
   font-weight: 700;
   font-size: 21px;
   margin: 0 0 10px;
