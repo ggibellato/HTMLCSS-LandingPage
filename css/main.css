@@ -152,7 +152,7 @@ section { display: flex; }
   content: "";
   position: absolute;
   border: 1px solid #ffffff;
-  top: 30 px;
+  top: 30px;
   bottom: 30px;
   left: 50px;
   right: 50px;
@@ -172,7 +172,7 @@ section { display: flex; }
   padding: 30px;
   color: #ffffff;
 }
-.full-banner-siderbar h4 {
+.full-banner-sidebar h4 {
   font-size: 40px;
   font-weight: 700;
   color: #637f94;
