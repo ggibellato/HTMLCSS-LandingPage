@@ -24,7 +24,7 @@ section { display: flex; }
   line-height: 1.4;
 }
 .btn-default { color: #ffffff; background-color: #faa541;}
-.bnt-primary { color: #ffffff; background-color: #364147;}
+.btn-primary { color: #ffffff; background-color: #364147;}
 .form-control { 
   display: block;
   padding: 6px 12px;
@@ -35,4 +35,4 @@ section { display: flex; }
 
 .text-light { font-size: 30px; color: #a0a0a0;}
 .text-secondary { font-size: 30px; color: #faa541;}
-.text-primary { font-size: 16; color: #364147;}
+.text-primary { font-size: 16px; color: #364147;}
